@@ -2,7 +2,7 @@ project:
   type: book
 
 book:
-  title: "doc"
+  title: "Template for Quarto Book"
   author: "Jane Doe"
   date: "8/25/2022"
   chapters:
