@@ -8,8 +8,22 @@ A template for Quarto Book for course noting and assignments
 ## Generate a book
 
 ```
+quarto create-project doc --type book
+```
+
+## Preview
 
 ```
+quarto preview doc
+```
+
+## Publish
+
+```
+quarto publish doc
+```
+
+There will be a selection to choose the platform to publish. I usually choose `github` to publish on the `gh-pages` branch.
 
 ## Tutorials
 
