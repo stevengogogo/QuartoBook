@@ -1,7 +1,6 @@
-name: quarto-setup
+name: 'quarto-setup'
 
-on: 
-  branch: main
+on: [push, pull_request]
 
 jobs:
   quarto-linux:
