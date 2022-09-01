@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 2cf4a720-d138-417a-a193-1118e4757ba1
+      url: 'https://glistening-eclair-6728ca.netlify.app'
