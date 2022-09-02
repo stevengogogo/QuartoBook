@@ -6,6 +6,8 @@ bibliography: ../ref.bib
     
 ---
 
+- [PDF Version(Latest)](https://github.com/stevengogogo/QuartoBook/blob/hw/hw1.pdf)
+
 ## Homework Description
 
 
