@@ -1,0 +1,23 @@
+---
+title: Homework 1
+author: Shao-Ting Chiu (stchiu@email.tamu.edu)
+date: today
+bibliography: ../ref.bib
+    
+---
+
+## Homework Description
+
+
+> Pending
+
+
+## Problem 1 
+
+
+
+::: {.content-hidden when-format="html"}
+
+## References
+
+:::

@@ -1,3 +1,17 @@
 /.quarto/
 doc/_book/
 doc/.quarto/
+.ipynb_checkpoints
+_extensions/
+*_files/
+_book/
+hw/*.pdf
+hw/*.html
+*/.quarto/
+*.html
+*.log
+hw/.gitignore
+index.tex
+*.tex 
+*.aug
+_site/
