@@ -3,6 +3,8 @@ project:
 
 book:
   title: "Template for Quarto Book"
+  cover-image: img/cover.jpg
+  page-navigation: true
   author: "Jane Doe"
   date: "8/25/2022"
   chapters:
@@ -17,6 +19,8 @@ bibliography: ref.bib
 format:
   html:
     theme: cosmo
+
+
 
 
 

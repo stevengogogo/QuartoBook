@@ -21,3 +21,7 @@ The following is @tbl-one. The label name shoud start with `tbl-`
 |---|---|
 |2|3|
 : An example table {#tbl-one}
+
+
+## Homework section is included
+- [Sample homework solution](hw/hw1.qmd#problem-1-)
