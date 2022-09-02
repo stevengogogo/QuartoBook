@@ -5,11 +5,14 @@ book:
   title: "Template for Quarto Book"
   cover-image: img/cover.jpg
   page-navigation: true
+  repo-url:  https://github.com/stevengogogo/QuartoBook
   author: "Jane Doe"
-  date: "8/25/2022"
+  date: today
+  favicon: img/favicon.png
   chapters:
     - index.qmd
     - intro.qmd
+    - ch1.qmd
     - hw/hw1.qmd
     - summary.qmd
     - ref.qmd
@@ -18,7 +21,9 @@ bibliography: ref.bib
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: flatly
+      dark: darkly
 
 
 
