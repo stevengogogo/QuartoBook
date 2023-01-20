@@ -5,9 +5,9 @@ book:
   title: "Template for Quarto Book"
   cover-image: img/cover.jpg
   page-navigation: true
-  repo-url:  https://github.com/stevengogogo/QuartoBook
-  author: "Jane Doe"
+  author: "Steven S.T. Chiu (stchiu@tamu.edu)"
   date: today
+  reader-mode: true
   favicon: img/favicon.png
   chapters:
     - index.qmd
@@ -16,7 +16,12 @@ book:
     - hw/hw1.qmd
     - summary.qmd
     - ref.qmd
-
+  navbar:
+      background: maroon
+      right:
+        - icon: github
+          href: https://github.com/stevengogogo/QuartoBook
+      
 bibliography: ref.bib
 
 format:
