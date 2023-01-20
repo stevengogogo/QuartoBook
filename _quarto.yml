@@ -8,7 +8,7 @@ book:
   author: "Steven S.T. Chiu (stchiu@tamu.edu)"
   date: today
   reader-mode: true
-  favicon: img/favicon.png
+  favicon: img/TAMU-LogoBox.png
   chapters:
     - index.qmd
     - intro.qmd
